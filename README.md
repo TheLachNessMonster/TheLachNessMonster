@@ -1,4 +1,17 @@
-## Hi there 👋
+## Lachlan(he/him)  
+
+I program.  I'm in the library a lot these days.  
+
+### Languages
+- Python
+- JavaScript
+- C#
+- SQL (Hopefully)
+
+### Qualifications
+- CERT III IT (TAFE NSW)
+- 2/3rds of a chemistry degree
+
 
 <!--
 **TheLachNessMonster/TheLachNessMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
